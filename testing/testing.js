@@ -1,5 +1,5 @@
 import {run,setApiKey,setManyInitialHistory} from '../src/index.js'
-setApiKey("AIzaSyDcV3AZ1elnKULDJvAOHjME0X9UBG8aw-4")
+setApiKey("GOOGLE_GEMINI_API")
 setManyInitialHistory([
     {
         role: "user",
